@@ -472,3 +472,4 @@
 2023-07-25 12:37:02,038 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\almit\OneDrive\Desktop\app development\security\spring-security-jwt-main\src\test\resources
 2023-07-25 12:37:03,539 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2023-07-25 12:37:03,544 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-25 12:37:03,552 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\almit\OneDrive\Desktop\app development\security\spring-security-jwt-main\src\test\resources
