@@ -1,0 +1,10 @@
+
+h
+java:S2583"CChange this condition so that it does not always evaluate to "true"(ãıÀÙHúRMAJORZBUG
+u
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(õäÄ±HıRMAJORZBUG
+u
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(µÀHşRMAJORZBUG
+T
+java:S1125"(Remove the unnecessary boolean literals.(ãıÀÙHÿRMINORZ
+CODE_SMELL
